@@ -6,7 +6,7 @@ Projeto realizado com o objetivo de aprendizado das tecnologias HTML,CSS e JavaS
 | -------------  | --- |
 | :sparkles: Nome        | **The Last Of Us**
 | :label: Tecnologias | HTML, CSS e JavaScript (tecnologias utilizadas)
-| :rocket: URL         | 
+| :rocket: URL         | https://igorhgds.github.io/dev-last-of-us/
 | :fire: Desafio     | https://cursos.alura.com.br/course/html-css-praticando-html-css
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
